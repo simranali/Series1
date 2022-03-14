@@ -28,6 +28,10 @@ coverage
 # Grunt intermediate storage (https://gruntjs.com/creating-plugins#storing-task-files)
 .grunt
 
+/InstitutionalPricingTool/*/bin
+/InstitutionalPricingTool/*/obj
+SSIS/ingestCSV/*/bin
+SSIS/ingestCSV/*/obj
 # Bower dependency directory (https://bower.io/)
 bower_components
 
@@ -39,6 +43,7 @@ build/Release
 
 # Dependency directories
 node_modules/
+pricingtoolfe/node_modules
 jspm_packages/
 
 # TypeScript v1 declaration files

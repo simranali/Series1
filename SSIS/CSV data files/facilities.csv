@@ -1,0 +1,7 @@
+proposalName,facilityName,bookingCountry,currency,startDate,maturityDate,limit
+proposal1,Facility11,Australia,AUD,31/03/2020,31/10/2023,225000000
+proposal1,Facility12,Australia,AUD,20/04/2021,30/09/2023,125000000
+proposal1,Facility13,Australia,AUD,31/03/2020,31/10/2023,325000000
+proposal3,Facility31,Australia,AUD,31/03/2020,31/10/2023,305000000
+proposal3,Facility32,Australia,AUD,31/03/2020,31/10/2023,235000000
+proposal3,Facility33,Australia,AUD,31/03/2020,31/10/2023,325000000
