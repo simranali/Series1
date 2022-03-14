@@ -1,0 +1,25 @@
+.App-header {
+    background-color: #014165;
+    min-height: 50px;    
+    font-size: calc(9px + 2vmin);
+    color: white;
+  }
+
+  .App-header small{
+    font-size: calc(6px + 2vmin);
+    color: #19638C;
+  }
+
+  .btn-lightBlue {
+      background-color: #19638C;
+      color: white;
+  }
+
+  .proposal-data-header-row {
+    background-color: #DFE7EA;
+  }
+  .facility-data-header {
+      color: #19638C;
+  }
+
+  
